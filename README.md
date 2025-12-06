@@ -1,4 +1,4 @@
-[![MasterHead(https://plus.nasa.gov/video/space-place-in-a-snap-what-is-a-nebula/)
+[![MasterHead(https://plus.nasa.gov/video/space-place-in-a-snap-what-is-a-nebula/)]
 <h1 align="center">Merhaba 👋, ben Yusuf Tunç</h1>
 <h3 align="center">Bilgisayar Mühendislik öğrenci | Türkiye'den Yapay zekâ ve yazılım gelişim </h3>
 
